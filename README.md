@@ -30,5 +30,11 @@ Ampliación de una aplicación GUI para gestionar una base de datos bibliográfi
 
 ### Ejemplo de salida en consola
 ![image](https://github.com/user-attachments/assets/315e8e4c-c7e6-4081-b35e-31210ef217fb)
+![image](https://github.com/user-attachments/assets/7a6e78e5-d710-45c5-80f2-a449ecbdff4c)
+
+### Base de datos
+![image](https://github.com/user-attachments/assets/fd6cae29-f789-4695-9643-035fb73b7e4c)
+
+
 
 
