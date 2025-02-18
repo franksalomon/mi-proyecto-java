@@ -30,3 +30,13 @@ Ampliación de una aplicación GUI para gestionar una base de datos bibliográfi
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/franksalomon/mi-proyecto-java.git
+
+## Capturas de pantalla
+
+### Interfaz gráfica
+![Interfaz gráfica] ![image](https://github.com/user-attachments/assets/52c18bee-5bb9-47ca-b18a-a8fc45a3a178)
+
+### Ejemplo de salida en consola
+![Salida en consola]![image](https://github.com/user-attachments/assets/315e8e4c-c7e6-4081-b35e-31210ef217fb)
+
+
