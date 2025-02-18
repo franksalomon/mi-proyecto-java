@@ -1,6 +1,6 @@
 # Mi Proyecto Java
 
-Este proyecto consiste en la implementación de dos ejercicios propuestos relacionados con programación en Java y acceso a bases de datos.
+Este proyecto consiste en la implementación de un ejercicio propuestos relacionados con programación en Java y acceso a bases de datos.
 
 ## Requisitos
 - Java JDK 8 o superior
